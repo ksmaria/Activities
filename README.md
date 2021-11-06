@@ -7,7 +7,7 @@ My Repository for my Fintech Work
 
 ### Table of Contents
 
-- ![Code] (/code)
+- ![Code] (../code)
 - ![Data] (/data)
 - ![References] (/references)
 - ![Images] (/images)
